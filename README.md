@@ -1,7 +1,7 @@
 
 <div align = "center">
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=DumoeDss&hide=contribs&show_icons=true" />
-<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DumoeDss&size_weight=0.2&count_weight=0.8&hide=html&layout=compact&langs_count=8" />
+<img height="170px" src="https://raw.githubusercontent.com/DumoeDss/DumoeDss/main/github-metrics.svg" />
+<img height="170px" src="https://raw.githubusercontent.com/DumoeDss/DumoeDss/main/languages.svg" />
 </div>
 
 <p align="center">
